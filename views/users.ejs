@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Pengguna</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <h1>Daftar Pengguna</h1>
+  <ul>
+    <% users.forEach(user => { %>
+      <li>ID: <%= user.id %> - Nama: <%= user.name %></li>
+    <% }) %>
+  </ul>
+</body>
+</html>
