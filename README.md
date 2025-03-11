@@ -1,4 +1,4 @@
-#  NeodeJS Templating V0.3 - Nusanio Web Development
+#  NeodeJS Templating V0.3
 
 > Status: Publikasi Awal
 
